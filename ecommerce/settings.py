@@ -19,9 +19,9 @@ SECRET_KEY = env('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['django-project-ytvv.onrender.com', '*']
+ALLOWED_HOSTS = ['django-app-l13v.onrender.com', '*']
 
-CSRF_TRUSTED_ORIGINS = ['https://django-project-ytvv.onrender.com/']
+CSRF_TRUSTED_ORIGINS = ['https://django-app-l13v.onrender.com/']
 
 
 # Application definition
